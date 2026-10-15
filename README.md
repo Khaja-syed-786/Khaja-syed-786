@@ -67,7 +67,7 @@ A visual map of IT infrastructure: systems, servers and how they connect.
 
 ---
 
-### 🧪 Security labs 🚧 being published
+### 🧪 [Security labs](https://github.com/Khaja-syed-786/cybersecurity-labs)
 - **Vulnerability Risk Assessment**: Nessus scans against lab systems, findings mapped to NIST 800-53 and ISO 27001
 - **Splunk Detection Lab**: detection queries for brute-force logins, PowerShell abuse and persistence techniques
 - **Metasploitable2 Exploitation**: simulated attacker workflow with Nmap, Metasploit and Wireshark packet analysis
