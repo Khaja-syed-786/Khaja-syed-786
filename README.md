@@ -54,13 +54,13 @@ Ask your ERP questions in plain English ("which orders shipped late this week, a
 A read-only connection between Claude Desktop and a live ERP database on SQL Server, protected by three layers (SQL permissions, a read-only MCP server and runtime blocking), with every query audit-logged.
 
 **Chronicle AI** - *a Cyber Chronicle project* 🚧 in progress  
-A safety-first desktop AI command center (Electron + React). Specialized agents with a full activity log of what each agent did and why. No system actions without approval. Claude integration in progress.
+Safety-first AI agent workspace with a full activity log: specialized agents, and no system actions without approval. Claude integration in progress.
 
 **[SOC Range](https://github.com/Khaja-syed-786/soc-range)**  
 A training range for SOC analysts: practice alert triage on realistic simulated data, with 77 automated tests.
 
 **IT Command Center** 🚧 in progress  
-A live system-monitoring dashboard for Windows.
+Live system-monitoring dashboard for Windows.
 
 **Infra Map** 🚧 in progress  
 A visual map of IT infrastructure: systems, servers and how they connect.
