@@ -59,8 +59,8 @@ Safety-first AI agent workspace with a full activity log: specialized agents, an
 **[SOC Range](https://github.com/Khaja-syed-786/soc-range)**  
 A training range for SOC analysts: practice alert triage on realistic simulated data, with 77 automated tests.
 
-**IT Command Center** 🚧 in progress  
-Live system-monitoring dashboard for Windows.
+**[IT Command Center](https://github.com/Khaja-syed-786/it-command-center)**  
+Live system-monitoring dashboard for Windows: read-only by default, runs locally, with opt-in admin actions and 25 automated tests.
 
 **Infra Map** 🚧 in progress  
 A visual map of IT infrastructure: systems, servers and how they connect.
