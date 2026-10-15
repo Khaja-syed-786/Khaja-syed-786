@@ -47,22 +47,22 @@ Turned an honor-system tool crib into a controlled, trackable SYSPRO warehouse.
 
 ### 🚀 What I'm building
 
-**[Ask SYSPRO](https://github.com/Khaja-syed-786/ask-syspro)** - *AI copilot for ERP* 🚧 in progress
+**[Ask SYSPRO](https://github.com/Khaja-syed-786/ask-syspro)** - *AI copilot for ERP* 🚧 in progress  
 Ask your ERP questions in plain English ("which orders shipped late this week, and why?") and get an answer, the SQL behind it, and a chart, all read-only and audit-logged. Builds on my SYSPRO + Claude MCP connection; becoming an agent inside Chronicle AI.
 
-**[SYSPRO + Claude via MCP](https://github.com/Khaja-syed-786/syspro-claude-mcp)**
+**[SYSPRO + Claude via MCP](https://github.com/Khaja-syed-786/syspro-claude-mcp)**  
 A read-only connection between Claude Desktop and a live ERP database on SQL Server, protected by three layers (SQL permissions, a read-only MCP server and runtime blocking), with every query audit-logged.
 
-**Chronicle AI** - *a Cyber Chronicle project* 🚧 in progress
+**Chronicle AI** - *a Cyber Chronicle project* 🚧 in progress  
 A safety-first desktop AI command center (Electron + React). Specialized agents with a full activity log of what each agent did and why. No system actions without approval. Claude integration in progress.
 
-**[SOC Range](https://github.com/Khaja-syed-786/soc-range)**
+**[SOC Range](https://github.com/Khaja-syed-786/soc-range)**  
 A training range for SOC analysts: practice alert triage on realistic simulated data, with 77 automated tests.
 
-**IT Command Center** 🚧 in progress
+**IT Command Center** 🚧 in progress  
 A live system-monitoring dashboard for Windows.
 
-**Infra Map** 🚧 in progress
+**Infra Map** 🚧 in progress  
 A visual map of IT infrastructure: systems, servers and how they connect.
 
 ---
