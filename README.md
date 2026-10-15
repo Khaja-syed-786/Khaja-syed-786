@@ -50,7 +50,7 @@ Turned an honor-system tool crib into a controlled, trackable SYSPRO warehouse.
 **[Ask SYSPRO](https://github.com/Khaja-syed-786/ask-syspro)** - *AI copilot for ERP* 🚧 in progress
 Ask your ERP questions in plain English ("which orders shipped late this week, and why?") and get an answer, the SQL behind it, and a chart, all read-only and audit-logged. Builds on my SYSPRO + Claude MCP connection; becoming an agent inside Chronicle AI.
 
-**SYSPRO + Claude via MCP**
+**[SYSPRO + Claude via MCP](https://github.com/Khaja-syed-786/syspro-claude-mcp)**
 A read-only connection between Claude Desktop and a live ERP database on SQL Server, protected by three layers (SQL permissions, a read-only MCP server and runtime blocking), with every query audit-logged.
 
 **Chronicle AI** - *a Cyber Chronicle project* 🚧 in progress
