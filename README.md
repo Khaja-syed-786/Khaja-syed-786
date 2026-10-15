@@ -56,8 +56,8 @@ A read-only connection between Claude Desktop and a live ERP database on SQL Ser
 **Chronicle AI** - *a Cyber Chronicle project* 🚧 in progress
 A safety-first desktop AI command center (Electron + React). Specialized agents with a full activity log of what each agent did and why. No system actions without approval. Claude integration in progress.
 
-**SOC Simulator** 🚧 in progress
-A security operations training simulator using simulated data only.
+**[SOC Range](https://github.com/Khaja-syed-786/soc-range)**
+A training range for SOC analysts: practice alert triage on realistic simulated data, with 77 automated tests.
 
 **IT Command Center** 🚧 in progress
 A live system-monitoring dashboard for Windows.
