@@ -2,7 +2,7 @@
 
 **ERP & Systems Administrator · Security-focused · Author of Cyber Chronicle**
 
-I run and secure the systems a manufacturing business depends on: SYSPRO ERP, SQL Server, Microsoft 365 and network infrastructure. I turn messy processes into controlled, trackable ones, and I build AI tools that help without handing them the keys to production.
+I work across ERP administration, IT infrastructure, cybersecurity, and AI-powered automation, building reliable systems and practical tools that improve business operations. I turn messy processes into controlled, trackable workflows and build AI tools that help people work smarter without compromising production systems.
 
 ---
 
@@ -23,7 +23,7 @@ Turned an honor-system tool crib into a controlled, trackable SYSPRO warehouse.
 
 **ERP administration (SYSPRO)**
 - Primary SYSPRO administrator: user provisioning, role-based access control and license management
-- **Cut ERP licensing costs by 30%** by auditing and disabling former-employee accounts and renegotiating renewal terms
+- **Reduced ERP licensing costs by 30% through access reviews, license optimization, and renewal negotiations.
 - Set up automated alerts for nightly MRP runs, so processing failures are caught before the business notices
 - Optimized sales order and inventory workflows; built reporting in SAP Crystal Reports
 - Query and maintain the SYSPRO database in SQL Server (SSMS); sync data between the order-entry/CRM system and SYSPRO
@@ -36,7 +36,7 @@ Turned an honor-system tool crib into a controlled, trackable SYSPRO warehouse.
 **Information security**
 - Internal point of contact for our managed security provider; review and respond to daily incident alerts
 - Run Microsoft 365 email security operations, including quarantine review and release
-- **Rolled out passkey authentication company-wide**, replacing legacy push-based MFA
+- **Contributed to stronger identity security through modern authentication and access-control improvements.
 - Co-own vendor risk and security review with the IT Director
 
 **Vendor & project management**
