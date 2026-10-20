@@ -11,6 +11,21 @@ my newsletter, **Cyber Chronicle**.
 - **AI tooling:** exploring MCP servers that connect Claude to business systems
 - **DevSecOps:** CI/CD pipelines with security gates, signed releases, supply-chain hygiene
 
+## Tech stack
+
+**Security & DevSecOps:**
+[![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/Khaja-syed-786/soc-range/tree/main/.github/workflows)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/Khaja-syed-786/soc-range/blob/main/Dockerfile)
+[![CodeQL](https://img.shields.io/badge/-CodeQL-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/Khaja-syed-786/soc-range/blob/main/.github/workflows/security.yml)
+[![Trivy](https://img.shields.io/badge/-Trivy-1904DA?style=flat-square)](https://github.com/Khaja-syed-786/soc-range/blob/main/docs/ci-cd.md)
+[![Sigstore cosign](https://img.shields.io/badge/-cosign-4B5563?style=flat-square)](https://github.com/Khaja-syed-786/soc-range/releases/tag/v0.1.0)
+
+**Languages & platforms:**
+[![Node.js](https://img.shields.io/badge/-Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)](https://github.com/Khaja-syed-786/soc-range)
+[![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square)](https://github.com/Khaja-syed-786/mssql-mcp-reader)
+![SYSPRO](https://img.shields.io/badge/-SYSPRO_ERP-0F766E?style=flat-square)
+![MCP](https://img.shields.io/badge/-MCP-7C3AED?style=flat-square)
+
 ## What I do
 
 - **ERP administration (SYSPRO):** primary administrator for user provisioning, role-based access and licenses. Cut ERP licensing costs by 30% through access reviews, license optimization and renewal negotiations. Automated alerts for nightly MRP runs, so failures are caught before the business notices. Optimized sales order and inventory workflows, built reports in SAP Crystal Reports, and keep the SYSPRO database in SQL Server (SSMS) in sync with the order-entry/CRM system.
