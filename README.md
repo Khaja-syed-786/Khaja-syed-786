@@ -13,18 +13,46 @@ my newsletter, **Cyber Chronicle**.
 
 ## Tech stack
 
-**Security & DevSecOps:**
-[![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/Khaja-syed-786/soc-range/tree/main/.github/workflows)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/Khaja-syed-786/soc-range/blob/main/Dockerfile)
-[![CodeQL](https://img.shields.io/badge/-CodeQL-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/Khaja-syed-786/soc-range/blob/main/.github/workflows/security.yml)
-[![Trivy](https://img.shields.io/badge/-Trivy-1904DA?style=flat-square)](https://github.com/Khaja-syed-786/soc-range/blob/main/docs/ci-cd.md)
-[![Sigstore cosign](https://img.shields.io/badge/-cosign-4B5563?style=flat-square)](https://github.com/Khaja-syed-786/soc-range/releases/tag/v0.1.0)
-
-**Languages & platforms:**
-[![Node.js](https://img.shields.io/badge/-Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)](https://github.com/Khaja-syed-786/soc-range)
-[![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square)](https://github.com/Khaja-syed-786/mssql-mcp-reader)
-![SYSPRO](https://img.shields.io/badge/-SYSPRO_ERP-0F766E?style=flat-square)
-![MCP](https://img.shields.io/badge/-MCP-7C3AED?style=flat-square)
+- **Security & DevSecOps:**
+  [![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/Khaja-syed-786/soc-range/tree/main/.github/workflows)
+  [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/Khaja-syed-786/soc-range/blob/main/Dockerfile)
+  [![CodeQL](https://img.shields.io/badge/-CodeQL-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/Khaja-syed-786/soc-range/blob/main/.github/workflows/security.yml)
+  [![Trivy](https://img.shields.io/badge/-Trivy-1904DA?style=flat-square)](https://github.com/Khaja-syed-786/soc-range/blob/main/docs/ci-cd.md)
+  [![Sigstore cosign](https://img.shields.io/badge/-cosign-4B5563?style=flat-square)](https://github.com/Khaja-syed-786/soc-range/releases/tag/v0.1.0)
+- **Languages:**
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![T-SQL](https://img.shields.io/badge/-T--SQL-B91C1C?style=flat-square)
+  [![Node.js](https://img.shields.io/badge/-Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)](https://github.com/Khaja-syed-786/soc-range)
+- **ERP & databases:**
+  ![SYSPRO](https://img.shields.io/badge/-SYSPRO_ERP-0F766E?style=flat-square)
+  ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square)
+  ![SSMS](https://img.shields.io/badge/-SSMS-991B1B?style=flat-square)
+  ![SAP Crystal Reports](https://img.shields.io/badge/-SAP_Crystal_Reports-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+- **Cloud & infrastructure:**
+  ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square)
+  ![Microsoft 365](https://img.shields.io/badge/-Microsoft_365-D83B01?style=flat-square)
+  ![Active Directory](https://img.shields.io/badge/-Active_Directory-0F6CBD?style=flat-square)
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+- **Security tools:**
+  [![Splunk](https://img.shields.io/badge/-Splunk-65A637?style=flat-square&logo=splunk&logoColor=white)](https://github.com/Khaja-syed-786/cybersecurity-labs)
+  [![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)](https://github.com/Khaja-syed-786/cybersecurity-labs)
+  [![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)](https://github.com/Khaja-syed-786/cybersecurity-labs)
+  [![Nessus](https://img.shields.io/badge/-Nessus-00C1DE?style=flat-square)](https://github.com/Khaja-syed-786/cybersecurity-labs)
+- **Frameworks & standards:**
+  [![MITRE ATT&CK](https://img.shields.io/badge/-MITRE_ATT%26CK-B71C1C?style=flat-square)](https://github.com/Khaja-syed-786/soc-range)
+  ![NIST 800-53](https://img.shields.io/badge/-NIST_800--53-1F4E79?style=flat-square)
+  ![ISO 27001](https://img.shields.io/badge/-ISO_27001-0B5394?style=flat-square)
+  ![ITIL](https://img.shields.io/badge/-ITIL-7B1E3A?style=flat-square)
+- **AI & automation:**
+  ![Claude API](https://img.shields.io/badge/-Claude_API-D97757?style=flat-square&logo=claude&logoColor=white)
+  ![MCP](https://img.shields.io/badge/-MCP-7C3AED?style=flat-square)
+  ![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-0EA5E9?style=flat-square)
+- **Tools:**
+  ![Monday.com](https://img.shields.io/badge/-Monday.com-FF3D57?style=flat-square)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ## What I do
 
