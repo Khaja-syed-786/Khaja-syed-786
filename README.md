@@ -38,7 +38,7 @@ my newsletter, **Cyber Chronicle**.
 | [**soc-range**](https://github.com/Khaja-syed-786/soc-range) | SOC Simulator: simulated logs, SIEM rules, alert triage, MITRE ATT&CK, scored exercises. 100% simulated data. Try it in your browser with Codespaces. |
 | [**cybersecurity-labs**](https://github.com/Khaja-syed-786/cybersecurity-labs) | Offensive and defensive security labs (exploitation, vulnerability assessment, detection engineering, compliance gap analysis) mapped to NIST 800-53, ISO 27001 and MITRE ATT&CK. One lab complete, more in progress. |
 
-**How soc-range is built:** 102 tests (~99% line coverage) on Linux and Windows,
+**How soc-range is built:** 110 tests (99.2% line coverage) on Linux and Windows,
 10 required checks (ESLint, gitleaks, hadolint, Trivy, CodeQL, dependency audit,
 Docker smoke test), a protected `main` with no bypass, and a signed, attested
 container release with an SBOM and provenance. Details in
